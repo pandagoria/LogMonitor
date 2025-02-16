@@ -1,0 +1,5 @@
+log_gen.py
+log_to_db.py
+*.db
+fake_logs.txt
+env/*
